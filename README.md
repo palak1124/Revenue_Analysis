@@ -5,6 +5,9 @@
 
 This project focuses on analyzing sales data from a dataset containing four sheets. The primary objective is to gain insights into product sales, understand product details, and evaluate the performance of brands and channels. The dataset includes information on sales, product details, monthly sales, and brand summaries.
 
+<img width="1829" height="565" alt="image" src="https://github.com/user-attachments/assets/387abd9d-67f1-404a-923c-9a771f4df3d0" />
+
+
 ## Key Steps and Techniques Used
 
 ### 1. Raw Data Analysis
